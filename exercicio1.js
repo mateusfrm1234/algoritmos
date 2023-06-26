@@ -9,3 +9,4 @@ if(media === 10) {
 } else {
     alert('Reprovado!');
 }
+let teste = 'Mudança'
